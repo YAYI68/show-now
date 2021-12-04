@@ -23,7 +23,7 @@
     ],
     "theme_color": "#FFFFFF",
     "background_color": "#FFFFFF",
-    "start_url": "/mobile_shop/",
+    "start_url": "/shop-now/",
     "display": "standalone",
     "orientation": "portrait"
 }
